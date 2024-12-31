@@ -109,5 +109,5 @@
 This project is licensed under the MIT License. Refer to the LICENSE file for details.
 
 # Author
-SHARDUL CHAVAN
+SHARDUL CHAVAN <br />
 AAYUSH SHAH
