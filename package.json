@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.0",
+    "@mui/material": "^6.1.0",
+    "axios": "^1.7.7",
+    "lucide-react": "^0.454.0",
+    "mongose": "^0.0.2-security",
+    "python-shell": "^5.0.0"
+  }
+}
